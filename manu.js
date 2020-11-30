@@ -1,5 +1,5 @@
 ﻿var cText = '';
-cText += '<a href="index.htm">About Me (关于我)</a>';
+cText += '<a href="index.html">About Me (关于我)</a>';
 cText += '<a href="education.htm">Education (教育)</a>';
 cText += '<a href="experience.htm">Work Experiences (工作经历)</a>';
 cText += '<a href="publications.htm">Publications (发表论文)</a>';
